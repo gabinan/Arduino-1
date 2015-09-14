@@ -1,14 +1,1 @@
-Arduino
-=======
-
-MySensors Arduino Library v1.5
-
-Please visit www.mysensors.org for more information
-
-Current build status of master branch: [![Build Status](http://ci.mysensors.org/job/MySensorsArduino/branch/master/badge/icon)](http://ci.mysensors.org/job/MySensorsArduino/branch/master/)
-
-Current build status of development branch: [![Build Status](http://ci.mysensors.org/job/MySensorsArduino/branch/development/badge/icon)](http://ci.mysensors.org/job/MySensorsArduino/branch/development/)
-
-Current build status of master branch (nightly build of Arduino IDE): [![Build Status](http://ci.mysensors.org/job/MySensorsArduinoNightly/branch/master/badge/icon)](http://ci.mysensors.org/job/MySensorsArduinoNightly/branch/master/)
-
-Current build status of development branch (nightly build of Arduino IDE): [![Build Status](http://ci.mysensors.org/job/MySensorsArduinoNightly/branch/development/badge/icon)](http://ci.mysensors.org/job/MySensorsArduinoNightly/branch/development/)
+This is an example based on the mysensors ESP8266 gateway on a NodeMCU with a nRF, on which I've also added; an OLED screen and a DHT11 and I have it forwarding both external and internal sensor values directly to a cloud service (e.g. to Thingspeak) without using a controller. more details here: http://forum.mysensors.org/topic/1973/esp8266-as-wifi-gateway-controller-node
